@@ -4,5 +4,5 @@ Building an image classification model using keras tuner with customize datasets
 ![](samples/WhoteNote.jpg)
 ![](samples/HalfNote.jpg)
 ![](samples/QuarterNote.jpg)
-![](samples/EigthNote.jpg)
+![](samples/EightNote.jpg)
 ![](samples/SixteenthNote.jpg)
