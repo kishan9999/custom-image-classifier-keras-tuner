@@ -11,5 +11,5 @@ There are five different music symbols considered for the classification.
 1. Whole Note
 2. Half Note
 3. Quarter Note
-4. Eigth Note
+4. Eight Note
 5. Sixteenth Note
