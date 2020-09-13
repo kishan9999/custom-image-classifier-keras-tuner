@@ -7,4 +7,9 @@ Building an image classification model using keras tuner with customize datasets
 ![](samples/EightNote.jpg)
 ![](samples/SixteenthNote.jpg)
 
-Here, five different music symbols are considered like 1. Whole Note, 2. Half Note, 3. Quarter Note, 4. Eigth Note and 5. Sixteenth Note. 
+there are five different music symbols considered for classification. 
+1. Whole Note
+2. Half Note
+3. Quarter Note
+4. Eigth Note
+5. Sixteenth Note
