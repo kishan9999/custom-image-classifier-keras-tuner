@@ -15,7 +15,7 @@ There are five different music symbols considered for the classification.
 5. Sixteenth Note
 
 # Best Model Architecture
-![](samples/Bestmodel.jpg)
+![](samples/trailsummary.jpg)
 
 # Major Python-Libraries used:
 1. tensorflow 2.3.0
