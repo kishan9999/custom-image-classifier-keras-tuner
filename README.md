@@ -15,8 +15,7 @@ There are five different music symbols considered for the classification.
 5. Sixteenth Note
 
 # Datasets Format:
-There are 5000 Grayscale image (28x28 pixels) samples of 5 different music note symbol used. 
-
+There are 5000 Grayscale image (28x28 pixels) samples of 5 different music note symbol used. data format is similar to the MNIST datasets. 
 
 # Major Python-Libraries used:
 1. tensorflow 2.3.0
