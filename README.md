@@ -14,6 +14,10 @@ There are five different music symbols considered for the classification.
 4. Eight Note
 5. Sixteenth Note
 
+# Datasets Format:
+There are 5000 Grayscale image (28x28 pixels) samples of 5 different music note symbol used. 
+
+
 # Major Python-Libraries used:
 1. tensorflow 2.3.0
 2. keras-tuner: 1.0.1
@@ -22,6 +26,8 @@ There are five different music symbols considered for the classification.
 5. numpy: 1.18.5
 
 # References:
+
+https://www.kaggle.com/kishanj/music-notes-datasets
 
 https://keras-team.github.io/keras-tuner/
 
