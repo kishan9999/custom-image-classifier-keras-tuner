@@ -14,6 +14,9 @@ There are five different music symbols considered for the classification.
 4. Eight Note
 5. Sixteenth Note
 
+# Best Model Architecture
+![](samples/Bestmodel.jpg)
+
 # Major Python-Libraries used:
 1. tensorflow 2.3.0
 2. keras-tuner: 1.0.1
