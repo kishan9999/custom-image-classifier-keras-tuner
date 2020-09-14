@@ -16,7 +16,26 @@ There are five different music symbols considered for the classification.
 
 # Best Model Architecture
 Best configuration using tuner
-![](samples/summary.jpg)
+Model: "sequential"
+_________________________________________________________________
+Layer (type)                 Output Shape              Param #   
+=================================================================
+conv2d (Conv2D)              (None, 24, 24, 64)        1664      
+_________________________________________________________________
+conv2d_1 (Conv2D)            (None, 20, 20, 64)        102464    
+_________________________________________________________________
+conv2d_2 (Conv2D)            (None, 16, 16, 64)        102464    
+_________________________________________________________________
+flatten (Flatten)            (None, 16384)             0         
+_________________________________________________________________
+dense (Dense)                (None, 32)                524320    
+_________________________________________________________________
+dense_1 (Dense)              (None, 5)                 165       
+=================================================================
+Total params: 731,077
+Trainable params: 731,077
+Non-trainable params: 0
+_________________________________________________________________
 
 # Major Python-Libraries used:
 1. tensorflow 2.3.0
