@@ -14,6 +14,13 @@ There are five different music symbols considered for the classification.
 4. Eight Note
 5. Sixteenth Note
 
+# Major Libraries Used:
+1. tensorflow 2.3.0
+2. keras-tuner: 1.0.1
+3. matplotlib: 3.2.2
+4. pandas: 1.0.5
+5. numpy: 1.18.5
+
 # References:
 
 https://keras-team.github.io/keras-tuner/
