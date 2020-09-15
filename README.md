@@ -31,3 +31,5 @@ https://www.kaggle.com/kishanj/music-notes-datasets
 https://keras-team.github.io/keras-tuner/
 
 https://blog.tensorflow.org/2020/01/hyperparameter-tuning-with-keras-tuner.html
+
+https://keras-team.github.io/keras-tuner/documentation/tuners/
